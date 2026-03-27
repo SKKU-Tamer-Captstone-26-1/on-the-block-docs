@@ -1,2 +1,3 @@
 # on-the-block-docs
-Centralized documentation and design archive for On the Block: Next-Generation Integrated Whiskey &amp; Cocktail Platform.
+For details of our Event Storming workshop and the key outcomes, see  
+👉 [Event Storming Workshop](./event-storming/README.md)
