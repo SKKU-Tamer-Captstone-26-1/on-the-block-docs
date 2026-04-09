@@ -21,8 +21,16 @@ The Event Storming diagram uses the following color-coded elements:
 | **External System** | Pink | Third-party or external integrated systems |
 | **Hotspot** | Red | Questions, risks, or issues that need to be resolved |
 
- <!-- ![Event Storming Legend](images/Event-Storming_Legend.png) -->
+ ![Event Storming Legend](images/Event-Storming_Legend.png)
 
 ## Event Storming Diagram - Version 1
 
-<!-- ![Event Storming v1](images/Event-Storming_ver01_kr.png) -->
+Date: 2026-03-27
+
+![Event Storming v1](images/Event-Storming_ver01_kr.png)
+
+## Event Storming Diagram - Version 2
+
+Date: 2026-04-03
+
+![Event Storming v2](images/Event-Storming-v2-krl.png)

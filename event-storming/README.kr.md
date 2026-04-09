@@ -24,5 +24,12 @@
 
 ## 이벤트 스토밍 다이어그램 - 버전 1
 
+Date: 2026-03-27
+
 ![이벤트 스토밍 v1](images/Event-Storming_ver01_kr.png)
 
+## 이벤트 스토밍 다이이그램 - 버전 2
+
+Date: 2026-04-03
+
+![이벤트 스토밍 v1](images/Event-Storming-v2-krl.png)
